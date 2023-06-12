@@ -8,7 +8,7 @@ https://single-page-design-portfolio-dun.vercel.app/
 ![spdp](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/78fbd35f-6dcd-46e9-99ea-0fe6ddc31b3b) 
 
 # Tablet Preview
-![spdp-tablet](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f0dc5448-ffea-4e75-a917-5a0aefd84c34)
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f0dc5448-ffea-4e75-a917-5a0aefd84c34"  width="1000" />
 
 # Mobile Preview
 <p align="left">
