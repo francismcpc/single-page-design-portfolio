@@ -13,13 +13,13 @@ https://single-page-design-portfolio-dun.vercel.app/
 # Mobile Preview
 <p align="left">
 <a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f74a3ae2-724a-4a55-acb0-4042f235cd36" height="300" width="300" />
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f74a3ae2-724a-4a55-acb0-4042f235cd36" height="500" width="400" />
 </a>
 <a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/d1b17eda-357b-44e5-a899-84a2963883b6" height="300" width="300" />
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/d1b17eda-357b-44e5-a899-84a2963883b6" height="500" width="400" />
 </a>
 <a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/9a9554cb-b7fa-44c4-97e8-4c19b3d1fd8e" height="300" width="300" />
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/9a9554cb-b7fa-44c4-97e8-4c19b3d1fd8e" height="500" width="400" />
 </a>
 </p>
 
