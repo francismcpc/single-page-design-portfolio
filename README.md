@@ -1,6 +1,9 @@
 # Single Page Design Portfolio - Frontend Mentor
 Frontend Mentor Challenge. Coded by Francis Macaspac
 
+# Live Preview Site
+https://single-page-design-portfolio-dun.vercel.app/
+
 # Desktop Preview
 ![spdp](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/78fbd35f-6dcd-46e9-99ea-0fe6ddc31b3b) 
 
@@ -10,13 +13,13 @@ Frontend Mentor Challenge. Coded by Francis Macaspac
 # Mobile Preview
 <p align="left">
 <a>
-![spdp-mobile](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f74a3ae2-724a-4a55-acb0-4042f235cd36)
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f74a3ae2-724a-4a55-acb0-4042f235cd36" />
 </a>
 <a>
-![spdp-mobile-3](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/d1b17eda-357b-44e5-a899-84a2963883b6)
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/d1b17eda-357b-44e5-a899-84a2963883b6" />
 </a>
 <a>
-![spdp-mobile-2](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/9a9554cb-b7fa-44c4-97e8-4c19b3d1fd8e)
+<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/9a9554cb-b7fa-44c4-97e8-4c19b3d1fd8e" />
 </a>
 </p>
 
