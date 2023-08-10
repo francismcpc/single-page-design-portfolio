@@ -28,7 +28,7 @@ The Portfolio | Single Page Design project is a visually appealing way to presen
 
 ## Demo
 
-Check out the live demo of the Portfolio | Single Page Design [here](https://<your-username>.github.io/portfolio-single-page-design).
+Check out the live demo of the Portfolio | Single Page Design [here](https://single-page-design-portfolio-dun.vercel.app/).
 
 ## Getting Started
 
