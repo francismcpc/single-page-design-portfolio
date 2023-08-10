@@ -1,37 +1,73 @@
-# Single Page Design Portfolio - Frontend Mentor
-Frontend Mentor Challenge. Coded by Francis Macaspac
+# Portfolio | Single Page Design
 
-# Live Preview Site
-https://single-page-design-portfolio-dun.vercel.app/
+This project is a responsive single-page design portfolio created for showcasing your design skills and projects. It features various sections such as a hero section, about section, work showcase, and a contact section.
 
-# Desktop Preview
-![spdp](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/78fbd35f-6dcd-46e9-99ea-0fe6ddc31b3b) 
+![tablet](https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/991f1818-dc36-4ece-8f18-48598c67609e)
 
-# Tablet Preview
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f0dc5448-ffea-4e75-a917-5a0aefd84c34"  width="1000" />
+## Table of Contents
 
-# Mobile Preview
-<p align="left">
-<a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/f74a3ae2-724a-4a55-acb0-4042f235cd36" height="700" width="330" />
-</a>
-<a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/d1b17eda-357b-44e5-a899-84a2963883b6" height="700" width="330" />
-</a>
-<a>
-<img src="https://github.com/francismcpc/single-page-design-portfolio/assets/119109562/9a9554cb-b7fa-44c4-97e8-4c19b3d1fd8e" height="700" width="330" />
-</a>
-</p>
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [What You Can Learn](#what-you-can-learn)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 
+## Overview
 
-# Technologies Used
-- Vite 
+The Portfolio | Single Page Design project is a visually appealing way to present your design capabilities and projects. It provides visitors with an easy-to-navigate experience to learn more about you and your work.
+
+## Features
+
+- Responsive design for various screen sizes
+- Distinct sections for highlighting different aspects (hero, about, work, contact)
+- Eye-catching image showcases
+- Interactive buttons for engagement
+
+## Demo
+
+Check out the live demo of the Portfolio | Single Page Design [here](https://<your-username>.github.io/portfolio-single-page-design).
+
+## Getting Started
+
+To view the project locally and make modifications, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/portfolio-single-page-design.git
+
+2. Navigate to the project directory:
+   ```
+   cd portfolio-single-page-design
+
+3. Open the index.html file in your web browser.
+
+## Technologies Used
 - HTML
 - CSS
 
-# Feature
-- BEM Naming (still practicing to get used to it)
-- Importing another CSS in CSS file
-- Semantic HTML (still practicing to get used to it)
-- CSS Variables
+## What You Can Learn
+
+- Designing a single-page portfolio layout with a focus on semantic HTML structure
+- Implementing BEM (Block-Element-Modifier) naming methodology for clean and maintainable CSS classes
+- Creating responsive sections for different content types using media queries
+- Enhancing user experience with visually appealing design elements using CSS
+- Utilizing Flexbox to create flexible and efficient layouts for different screen sizes
+- Organizing content using CSS Grid to achieve a balanced and structured design
+- Showcasing images and projects effectively with proper styling and layout
+- Applying import statements to include external CSS files within your main stylesheet
+- Implementing a visually pleasing color palette and typography
+- Gaining hands-on experience in front-end web development
+- Applying best practices for HTML and CSS coding
+- Developing a professional portfolio that demonstrates your skills
+
+## Acknowledgements
+- Frontend Mentor for providing the challenge.
+
+
+
+
+
 
